@@ -9,7 +9,7 @@ The data I am using for my project is NBA career statistics. Sourced directly fr
 Players are organized by a player ID
 All seasons played by players are separated by Preseason, Regular, Allstar and PostSeason  
 I've discovered that active players are treated differently than retired ones. Active players have stats from their last season, while reired players have career stats.
-Physical Stats are also recorded
+Physical Stats are also recorded  
 The focus here will be on the stats themselves. Points, Assists and Rebounds.
 
 ## Prototypes
