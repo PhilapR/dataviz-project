@@ -1,5 +1,7 @@
 # NBA Historical Player Performance Data Visualization Project
 
+The most up to data vizhub can be found [here](https://vizhub.com/PhilapR/29ef06d19a8847699f7199f1cd7582b2)
+
 ## Data
 
 The data I propose to visualize for my project is NBA career statistics.
@@ -21,10 +23,9 @@ The following tasks and questions will drive the visualization and interaction d
  * What era of players lasted the longest in the NBA?
  * Are there statistics that are indicitive of when a player played?
 
-## Sketches
+## Comments and State of the Project
 
-todo
+This iteration added frist included a lot of back end cleaning and preparation of data. Then I was able to add a dropdown that allows the viewer to select the stat they are interested in viewing. For now it is stuck sorted by points. A few issues are present first off all active players are treated differently than retired players. Their data is from the last season while retired players have their career stats. I will be adding a toggle to look at past season vs retired players. Unfortunatly this messes with some of the analysis I wanted to do but Ill adapt. I also want to add a slider that allows you to choose the years to look at.
 
-## Open Questions
 
 
