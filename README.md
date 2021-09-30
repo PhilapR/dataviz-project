@@ -4,7 +4,13 @@ The most up to data vizhub can be found [here](https://vizhub.com/PhilapR/29ef06
 
 ## Data
 
-The data I propose to visualize for my project is NBA career statistics.
+The data I am using for my project is NBA career statistics. Sourced directly from the [nba](stats.nba.com) endpoints with python and [nba-api](https://github.com/swar/nba_api).
+
+Players are organized by a player ID
+All seasons played by players are separated by Preseason, Regular, Allstar and PostSeason
+Active Players are treated differently than retired ones. Active players have stats from their last season, while reired players have career stats.
+Physical Stats are also recorded
+The focus here will be on the stats themselves. Points, Assists and Rebounds.
 
 ## Prototypes
 
