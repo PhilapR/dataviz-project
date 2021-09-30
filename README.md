@@ -1,4 +1,4 @@
-# Data Visualization Project
+# NBA Historical Player Performance Data Visualization Project
 
 ## Data
 
@@ -17,7 +17,7 @@ The following shows 10 players and how long they played for. Further filtering a
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * What players had the best per-game stats?
- * Are those players the same as the record holders?
+ * Are those players consistantly the best across stats?
  * What era of players lasted the longest in the NBA?
  * Are there statistics that are indicitive of when a player played?
 
@@ -27,4 +27,4 @@ todo
 
 ## Open Questions
 
-I need to organize the data better, I have it collected but is a bit of a mess. The others datasets I was playing around were pretty lack luster when it came to the numbers. 
+
