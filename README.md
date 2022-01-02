@@ -16,7 +16,7 @@ The focus here will be on the stats themselves. Points, Assists and Rebounds.
 
 ![image](https://github.com/PhilapR/dataviz-project/blob/master/Data%20Vis%20Sketching%202.png?raw=true)
 
-![image](https://github.com/PhilapR/dataviz-project/blob/master/IMG_0635.png?raw=true)
+![image](https://github.com/PhilapR/dataviz-project/blob/master/IMG_0635.jpeg?raw=true)
 
 ## Itterations (All images link to vizhub)
 
