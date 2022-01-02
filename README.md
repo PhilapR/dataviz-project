@@ -1,6 +1,6 @@
 # NBA Historical Player Performance Data Visualization Project
 
-The most up to data vizhub can be found [here](https://vizhub.com/PhilapR/29ef06d19a8847699f7199f1cd7582b2)
+The most up to data vizhub can be found [here](https://vizhub.com/PhilapR/1dc660e128334c8b9e2637f1354bf155?edit=files&file=index.js&mode=full)
 
 ## Data
 
