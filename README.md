@@ -2,6 +2,8 @@
 
 The most up to data vizhub can be found [here](https://vizhub.com/PhilapR/1dc660e128334c8b9e2637f1354bf155?edit=files&file=index.js&mode=full)
 
+A walkthough is uploaded to youtube [here](https://youtu.be/W8V6ClOU6J8)
+
 ## Data
 
 The data I am using for my project is NBA career statistics. Sourced directly from the [nba](stats.nba.com) endpoints with python and [nba-api](https://github.com/swar/nba_api).
