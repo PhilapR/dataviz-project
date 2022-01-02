@@ -59,7 +59,9 @@ The following tasks and questions will drive the visualization and interaction d
  * What era of players lasted the longest in the NBA?
  * Are there statistics that are indicitive of when a player played?
 
-##Debrief
+## Debrief
+
+The overall execution turned out okay, there a few underlying issues I have with the final product. First, somehow the bottom timeline graph doesn't update correctly in the final version, despite updating fine in the prior version. I don't know where to start to find the issue there. The few years missing at the end of the timeline also bothers me. More than these things whats missing is a few elements present in my drawings that never ended up working. specifically the checkbox and the timeline slider. I spent a lot of time attempting to add these and never got these right. I believe my inablity to add either comes from the same issue that I am not troubleshooting properly. The other thing I put bit of time into and never got right was tooltips on hover that show other stats. I could never get D3 to show the tool tip on hover despite playing arounnd with it for awhile. The funny thing is that early versions made in react have no issue with tooltips. The last thing shown in the drawings that isn't present is the map. I knew this was a stretch from the begining, it doesn't fit the data super well to begin with so it isn't the biggest loss.
 
 
 
